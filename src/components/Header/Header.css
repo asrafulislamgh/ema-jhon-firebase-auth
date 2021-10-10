@@ -1,0 +1,46 @@
+nav,
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header {
+  text-align: center;
+}
+.logo {
+  height: 80px;
+  padding: 20px 0;
+}
+nav {
+  background-color: black;
+  text-align: center;
+}
+nav li {
+  display: inline-block;
+  padding: 1rem;
+}
+nav li:hover {
+  background-color: rgb(32, 32, 32);
+}
+nav li a {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+.search-bar {
+  background-color: rgb(32, 32, 32);
+  padding: 1rem 0;
+  text-align: center;
+}
+.search-bar input,
+.search-bar button {
+  padding: 0.5rem;
+}
+.search-bar button {
+  background-color: #ff9800;
+  color: black;
+}
+.search-bar input {
+  width: 75%;
+}

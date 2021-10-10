@@ -1,0 +1,12 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid rgb(221, 221, 221);
+  padding: 2rem 0;
+}
+.product-detail {
+  margin-left: 2rem;
+}
+
+.heading-text {
+  color: blue;
+}

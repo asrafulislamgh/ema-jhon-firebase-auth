@@ -1,0 +1,137 @@
+[
+    {
+      "key": 1,
+      "name": "Mary J. Blige",
+      "keysongs": "Real Love, Not Gon Cry, No More Drama",
+      "awards": "Franklin Award, Ifia Award, SuperStart Award",
+      "country": "USA",
+      "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134970-mary-j-blige.jpg?w=306",
+      "salary": 3400
+    },
+    {
+      "key": 2,
+      "name": "Steven Tyler",
+      "keysongs": "Sweet Emotion, Dream On, Walk This Way",
+      "awards": "Franklin Award, SuperStart Award, Canadian Rockstar Award",
+      "country": "Canada",
+      "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134969-steven-tyler.jpg?w=306",
+      "salary": 3900
+    },
+    {
+      "key": 3,
+      "name": "Stevie Nicks",
+      "keysongs": "Landslide, Dreams, Stand back",
+      "awards": "Franklin Award, USA Got Talent Award",
+      "country": "USA",
+      "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134968-stevie-nicks.jpg?w=306",
+      "salary": 3000
+    },
+    {
+      "key": 4,
+      "name": "Annie Lennox",
+      "keysongs": "Sweet Dreams, Here Comes the Rain Again",
+      "awards": "Jicken Jack Award, SuperStart Award",
+      "country": "UK",
+      "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134963-annie-lennox.jpg?w=306",
+      "salary": 3400
+    },
+    {
+      "key": 5,
+      "name": "Sonu Nigam",
+      "keysongs": "Kal Ho Naa Ho, Abhi Mujh Mein Kahin",
+      "awards": "Filmfare Award, Kannda Award",
+      "country": "India",
+      "img": "https://www.iwmbuzz.com/wp-content/uploads/2020/01/every-time-sonu-nigam-touched-hearts-with-his-soulful-rendition-920x518.jpg",
+      "salary": 2800
+    },
+    {
+      "key": 6,
+      "name": "Kumar Sanu",
+      "keysongs": "Jab Koi Baat Bigad Jaaye, Tujhe Dekha To",
+      "awards": "Padma Shri Award, Filmfare Award",
+      "country": "India",
+      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/Kumar-Sanu.jpg",
+      "salary": 3000
+    },
+    {
+      "key": 7,
+      "name": "Shreya Ghoshal",
+      "keysongs": "Deewani Mastani, Saans",
+      "awards": "Filmfare Award, Guild Award",
+      "country": "India",
+      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/shreya.jpg",
+      "salary": 2900
+    },
+    {
+      "key": 8,
+      "name": "Ayub Bachchu",
+      "keysongs": "Real Love, Not Gon Cry, No More Drama",
+      "awards": "Bangladesh Playback singer Award",
+      "country": "Bangladesh",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/LRB_Ayub_Bachchu_%28cropped%29.jpg/330px-LRB_Ayub_Bachchu_%28cropped%29.jpg",
+      "salary": 3100
+    },
+    {
+      "key": 9,
+      "name": "Monali Thakur",
+      "keysongs": "Cham Cham, Moh Moh Ke Dhaage",
+      "awards": "Filmfare Award, National Film Award",
+      "country": "India",
+      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/72608-240x300.jpg",
+      "salary": 2300
+    },
+    {
+      "key": 10,
+      "name": "Jubin Nautiyal",
+      "keysongs": "Meherbani, Phir Mulaaqat, Tujhe Kitna Chahein Aur",
+      "awards": "Mirchi Music Awards, ITA Award",
+      "country": "India",
+      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/jubin-nautiyal-290x300.jpg",
+      "salary": 2000
+    },
+    {
+      "key": 11,
+      "name": "Mohit Chauhan",
+      "keysongs": "Tum Se hi, Tum Ho, Guncha, Tujhe Bhula Diya",
+      "awards": "BACE Award, BIG start award",
+      "country": "India",
+      "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-134970-mary-j-blige.jpg?w=306",
+      "salary": 2200
+    },
+    {
+      "key": 12,
+      "name": "AR Rehman",
+      "keysongs": " Maahi Ve, Kun Fayakun, Phir Se Ud Chala",
+      "awards": "Academy Award, Filmfare Award",
+      "country": "India",
+      "img": "https://businessconnectindia.in/wp-content/uploads/2021/05/A._R._Rahman.jpg",
+      "salary": 2200
+    },
+    {
+      "key": 13,
+      "name": "Arijit Singh",
+      "keysongs": "Tum Hi Ho, Agar Tum Sath Ho, Kalank, Hawayein",
+      "awards": "Filmfare Award, Ifia Award, Mirchi Award",
+      "country": "India",
+      "img": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/arijit-singh-1048083-24-03-2017-18-02-00.jpg",
+      "salary": 2700
+    },
+    {
+      "key": 14,
+      "name": "Krishnakumar Kunnath",
+      "keysongs": "I am in Love, Tu jo mila, Zindgi Do Pal Ki",
+      "awards": "Best Male Playback Singer Award, Filmfare Award",
+      "country": "India",
+      "img": "http://3.bp.blogspot.com/-VCDhQ8TznBI/TrIvuKh5eiI/AAAAAAAABa4/IOeV-RMx4Sk/s1600/43.jpg",
+      "salary": 3000
+    },
+    {
+      "key": 15,
+      "name": "James",
+      "keysongs": "Tor Premete, Bheegi, Bheegi",
+      "awards": "Bangladesh National Film Award, Best playback Singer Award",
+      "country": "Bangladesh",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Faruq_Mahfuz_Anam_in_Trination_Mega_Festival_-_Bangladesh_India_Pakistan_%288375647058%29.jpg/330px-Faruq_Mahfuz_Anam_in_Trination_Mega_Festival_-_Bangladesh_India_Pakistan_%288375647058%29.jpg",
+      "salary": 3200
+    }
+  ]
